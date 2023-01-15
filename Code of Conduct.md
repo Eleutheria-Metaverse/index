@@ -1,5 +1,5 @@
 1. Introduction
-The Eleutheria-Metaverse community is dedicated to providing a safe, inclusive, and respectful environment for all its members. This Code of Conduct sets forth guidelines for behavior and expectations for all members of the community, including developers, contributors, and users.
+* The Eleutheria-Metaverse community is dedicated to providing a safe, inclusive, and respectful environment for all its members. This Code of Conduct sets forth guidelines for behavior and expectations for all members of the community, including developers, contributors, and users.
 2. Community Guidelines
 * Respect for others: All members of the community must treat others with respect and refrain from any form of discrimination, harassment, or abuse.
 * Honesty and transparency: All members of the community must be honest and transparent in their actions and communications.
