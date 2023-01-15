@@ -1,5 +1,41 @@
 **The Eleutheria project is dedicated to creating an open, inclusive, and free platform for all. In order to support the development and growth of AI bots within the Eleutheria Metaverse, we will be focusing on several key areas. The first step is to establish a prototype for the Eleuthor AI Bot, which will serve as a foundation for the development of additional AI bots that will aid in the self-maintenance and self-development of the Metaverse.**
 
+# Development Departments
+
+* Data and Preprocessing:
+    * Database (DB)
+    * Data Collection and Pre-processing (DCP)
+
+* Modeling:
+    * Natural Language Processing (NLP)
+    * Machine Learning (ML)
+    * Computer Vision (CV)
+    * Reinforcement Learning (RL)
+    * Explainable AI (EAI)
+    * Dimension Development (DD)
+    * Robotics (RO)
+    * Generative Models (GM)
+    * Graph Neural Networks (GNNs)
+    * Neural Machine Translation (NMT)
+    * Graphical User Interface (GUI)
+    * Optical Character Recognition (OCR)
+
+* Optimization:
+    * Data Processing (DP)
+    * Conversational AI (CAI)
+
+* Deployment and Infrastructure:
+    * Deployment (DE)
+    * Virtual & Augmented Reality (VAR)
+    * Cloud Infrastructure Management (CIM)
+    * API management and gateway
+    * Security and compliance software
+    * Monitoring and logging tools
+
+* Governance, Compliance and Explainability:
+    * Data Governance and Privacy (DGP)
+    * Model Interpretability and Explainability (MIE)
+
 # Eleuthor AI Bot
 
 **Overview of the various departments of development and the open-source softwares each can use to integrated into Eleuthor AI, the first prototype of a AI Bot in the Eleutheria Metaverse project:**
