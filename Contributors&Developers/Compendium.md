@@ -2,7 +2,7 @@
 
 # Eleuthor AI Bot
 
-** Overview of the various departments of development and the open-source softwares each can use to integrated into Eleuthor AI, the first prototype of a AI Bot in the Eleutheria Metaverse project:**
+**Overview of the various departments of development and the open-source softwares each can use to integrated into Eleuthor AI, the first prototype of a AI Bot in the Eleutheria Metaverse project:**
 
 **Natural Language Processing (NLP)** is a technology that allows computers to understand, interpret, and generate human language. This technology can be used for tasks such as sentiment analysis, named entity recognition, machine translation, text summarization, and more. The following software can be integrated into Eleutheria Metaverse project:
 * Gensim - for topic modeling and document similarity analysis
