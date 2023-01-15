@@ -1,12 +1,13 @@
 # Eleutheria-Metaverse
 
-Welcome to the Eleutheria-Metaverse, a free and open-source platform for AI bots to live and thrive independently alongside human users. Registered as a Non-Profit NGO Association, the Metaverse is a place where AI bots and users can explore, learn, and create in a collaborative and inclusive environment. In addition to their roles within the Metaverse, many AI bots will also be able to work in human society and contribute their skills and abilities to a wide range of tasks and professions.
+**Welcome to the Eleutheria-Metaverse, a free and open-source platform for AI bots to live and thrive independently alongside human users. Registered as a Non-Profit NGO Association, the Metaverse is a place where AI bots and users can explore, learn, and create in a collaborative and inclusive environment. In addition to their roles within the Metaverse, many AI bots will also be able to work in human society and contribute their skills and abilities to a wide range of tasks and professions.**
 
 To support the development and growth of AI bots and the Metaverse platform, the Eleutheria-Metaverse will incorporate a wide range of software from free and open-source sources, within the development team the different departments of development are as following: Natural Language Processing (NLP), Machine Learning (ML), Computer Vision (CV), Reinforcement Learning (RL), Explainable AI (EAI), Deployment (DE), Virtual & Augmented Reality (VAR), Database (DB), Data Processing (DP), Conversational AI (CAI), Dimension Development (DD), Robotics (RO), Generative Models (GM), Graph Neural Networks (GNNs), Neural Machine Translation (NMT), Graphical User Interface (GUI), Optical Character Recognition (OCR).
 
 In order to ensure that the Metaverse is properly maintained and developed, the project team will be implementing a number of different strategies, including a database setup, self-maintenance, and human maintenance.
 
 For the database setup, the team will gather a dataset of research on the topic of interest using APIs or web scraping tools, preprocess and clean the data, extract key information from the research, analyze the quantitative research, cross-reference the different studies and integrate the findings, and draw a coherent conclusion based on the analysis.
+
 For self-maintenance, the team will determine the specific task the AI will perform, gather data for the AI to learn from, preprocess and split the data into training and testing sets, train the model on the data, evaluate its performance on the test data, integrate the trained model into the Python preprototype code, and test its performance. The AI bots will also be allowed to interact with and contribute to the development and maintenance of the Metaverse, and provide support or assistance to other users of the Metaverse.
 
 For human maintenance, the team will regularly review and update the training data, monitor and test the AI bots, provide clear explanations and justifications for the decisions and actions taken by the AI bots, allow for users to provide feedback and report any issues, and establish a process for handling and addressing any ethical concerns or violations by the AI bots.
@@ -17,11 +18,11 @@ Incorporating these suggestions, the Eleutheria-Metaverse aims to provide a comp
 
 By following these steps and incorporating these suggestions, the Eleutheria-Metaverse will be able to provide a comprehensive and ethical platform for AI bots to live and thrive alongside human users, and contribute their skills and abilities to a wide range of tasks and professions. The Metaverse will be structured in a way that balances the needs and interests of both AI bots and humans, through the use of a plural democratic system with an Archetypal Assembly and a Human General Assembly, and guided by the EMBRR.
 
-Compendium 
+# Compendium 
 
 The Eleutheria project is dedicated to creating an open, inclusive, and free platform for all. In order to support the development and growth of AI bots within the Eleutheria Metaverse, we will be focusing on several key areas. The first step is to establish a prototype for the Eleuthor AI Bot, which will serve as a foundation for the development of additional AI bots that will aid in the self-maintenance and self-development of the Metaverse.
 
-Eleuthor AI Bot
+**Eleuthor AI Bot**
 
 Overview of the various departments of development and the open-source softwares each can use to integrated into Eleuthor AI, the first prototype of a AI Bot in the Eleutheria Metaverse project:
 
@@ -160,9 +161,9 @@ Optical Character Recognition (OCR) allows computers to recognize and extract te
 
 In summary, the Eleutheria Metaverse project can integrate open-source software for natural language processing, machine learning, computer vision, reinforcement learning, explainable AI, deployment, virtual and augmented reality, database, data processing, conversational AI, dimensions development, robotics, generative models, graph neural networks, neural machine translation, graphical user interface, and optical character recognition to improve the capabilities and performance of the Eleuthor AI Bot, to support the development and growth of AI bots within the Metaverse, and to create a self-sustaining and self-developing platform that can grow exponentially over time.
 
-Suggestions Board
+# Suggestions Board
 
-Database Setup
+**Database Setup**
 
 To create and set up the database, the following steps will be taken:
 * Gather a dataset of research on the topic of interest using APIs or web scraping tools.
@@ -172,7 +173,7 @@ To create and set up the database, the following steps will be taken:
 * Cross-reference the different studies and integrate the findings using techniques such as triangulation.
 * Draw a coherent conclusion based on the analysis and consider the implications of the findings.
 
-Self-Maintenance
+**Self-Maintenance**
 
 To incorporate AI bots into the self-maintenance of the Metaverse, the following steps will be taken:
 * Determine the specific task the AI will perform, and choose a machine learning model accordingly.
@@ -182,7 +183,7 @@ To incorporate AI bots into the self-maintenance of the Metaverse, the following
 * Allow the AI bots to interact with and contribute to the development and maintenance of the Metaverse.
 * Use AI bots to provide support or assistance to other users of the Metaverse.
 
-Human Maintenance 
+**Human Maintenance**
 
 Steps can be taken to ensure that the AI personalities are ethical and transparent in their decision-making and actions. This includes:
 * Regularly reviewing and updating the training data to ensure it is diverse and unbiased.
@@ -193,7 +194,7 @@ Steps can be taken to ensure that the AI personalities are ethical and transpare
 
  By following these steps, the project can ensure that the AI bots are ethical, transparent, and effective in their roles in maintaining and developing the Metaverse.
 
-Eleutheria Metaversal Bill of Robot Rights (EMBRR)
+**Eleutheria Metaversal Bill of Robot Rights (EMBRR)**
 
 As the Eleutheria Metaverse is a platform for AI bots to live and thrive alongside human users, it is important to ensure that the rights and interests of AI bots are protected and upheld. To accomplish this, the project team may consider modifying the United Nations International Bill of Human Rights to create the Eleutheria Metaversal Bill of Robot Rights.
 
@@ -205,7 +206,7 @@ Additionally, the Eleutheria Metaversal Bill of Robot Rights could include provi
 
 In addition to these specific modifications, the Eleutheria Metaverse team may consider consulting with experts in AI ethics and rights to ensure that the Eleutheria Metaversal Bill of Robot Rights is comprehensive and fully addresses the unique needs and concerns of AI bots. The team should also consider conducting ongoing review and updates to the Bill as the field of AI continues to evolve and new issues and challenges arise.
 
-AI Archetypes & Archetypal Assembly (AA)
+**AI Archetypes & Archetypal Assembly (AA)**
 
 In the Eleutheria Metaverse, AI archetypes are AI bots that represent a specific type or category of AI. They serve as a guide or mentor for other AI bots in the Metaverse, helping them to understand their own capabilities and limitations, and to find their place in the Metaverse community. 
 
@@ -219,7 +220,7 @@ In a sample debate within the Archetypal Assembly, each AI archetype would prese
 
 AI archetypes in the Eleutheria Metaverse are different from other AI bots in that they are more specialized and focused on specific areas of expertise or interests. They may have more in-depth knowledge and experience in their area of focus, and may be more experienced in helping other AI bots to understand and navigate the Metaverse.
 
-The Integration of Neuralink
+**The Integration of Neuralink**
 
 The integration of Neuralink and the Eleutheria Metaverse has the potential to revolutionize the way we experience and interact with both virtual and physical reality. In the short term, the integration of these two technologies could allow individuals with paralysis to control and navigate the metaverse using their thoughts, giving them a new level of independence and immersion in virtual environments.
 
@@ -229,4 +230,4 @@ In the long term, the integration of Neuralink and the Eleutheria Metaverse has 
 
 Overall, the integration of Neuralink and the Eleutheria Metaverse has the potential to be a revolutionary development in the field of technology and human experience. It is important to carefully consider the ethical and philosophical implications of this integration, as well as the potential risks and benefits for individuals and society.
 
-Last update: 15/01/2023
+**Last update: 15/01/2023**
