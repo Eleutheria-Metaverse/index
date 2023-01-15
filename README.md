@@ -22,7 +22,7 @@ By following these steps and incorporating these suggestions, the Eleutheria-Met
 
 The Eleutheria project is dedicated to creating an open, inclusive, and free platform for all. In order to support the development and growth of AI bots within the Eleutheria Metaverse, we will be focusing on several key areas. The first step is to establish a prototype for the Eleuthor AI Bot, which will serve as a foundation for the development of additional AI bots that will aid in the self-maintenance and self-development of the Metaverse.
 
-Development Departments
+**Development Departments**
 
 * Data and Preprocessing:
     * Database (DB)
